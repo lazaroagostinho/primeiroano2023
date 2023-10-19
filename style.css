@@ -1,5 +1,5 @@
 body {
-    backgrond-color:grey:
+    backgrond-color:gainsboro;
 }
  
 h1{
@@ -9,6 +9,6 @@ h1{
 }
 
 p{
-    color: rgb(145, 255, 0);
+    color:(black;);
     font-size: 30px;
     text-align:justify;
