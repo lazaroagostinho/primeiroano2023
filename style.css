@@ -1,10 +1,14 @@
+body {
+    backgrond-color:grey:
+}
+ 
 h1{
-    color :chartreuse;
+    color :rgb(4, 0, 255);
     font-size: 50px;
     text-align:center;
 }
 
 p{
-    color: blue;
+    color: rgb(145, 255, 0);
     font-size: 30px;
     text-align:justify;
