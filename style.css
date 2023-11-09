@@ -12,3 +12,22 @@ p{
     color:(black;);
     font-size: 30px;
     text-align:justify;
+}
+
+
+.logo {
+    width: 200px;
+    height: 200px;
+    margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da berda*/
+    padding: 2px; /*define uma distância interna entreum elemento e sua borda*/
+    border: 0.2rem solid black;
+    border-radius: 20px;
+}
+
+.foto {
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    padding: 3px;
+    border: 0.5rem solid black;
+    border-radius: 24px;
