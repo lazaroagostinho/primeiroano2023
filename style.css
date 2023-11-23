@@ -1,10 +1,10 @@
 body {
     font-family: sans-serif;   
-    beckground-image: linear-gradient(pink, pink, pink);
+    beckground-image: linear-gradient(cyan, lime, lightgray)
 }
  
 h1{
-    color :rgb(4, 0, 255);
+    color :(blueviolet);
     font-size: 50px;
     text-align:center;
 }
