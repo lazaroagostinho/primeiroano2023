@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;   
-    beckground-image: linear-gradient(gainsboro, pink, blue);
+    beckground-image: linear-gradient(rgb(235, 232, 232), rgb(192, 255, 218), rgb(0, 255, 157));
 }
  
 h1{
