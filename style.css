@@ -4,12 +4,9 @@ body {
 }
  
 header {
-    background-color: black
-    border-bottom: 7px solid blue
-
-
-
-
+    background-color: #b7bcb9;
+    border-bottom: 5px solid #677b3e;
+}
 
 
 h1{
