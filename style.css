@@ -1,5 +1,5 @@
 body {
-        backgrond-color:gainsboro,pink
+        backgrond-image: linear-gradient(gainsboro, pink, blue);
 }
  
 h1{
