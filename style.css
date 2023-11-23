@@ -3,6 +3,15 @@ body {
     background-image: linear-gradient(cyan, lime, lightgray)
 }
  
+header {
+    background-color: black
+    border-bottom: 7px solid blue
+
+
+
+
+
+
 h1{
     color :(blueviolet);
     font-size: 50px;
