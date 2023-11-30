@@ -29,7 +29,7 @@ p{
 
 
 .logo {
-    width: 100px;
+    width: 200px;
     height:100px;
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da berda*/
     padding: 2px; /*define uma distância interna entreum elemento e sua borda*/
@@ -38,8 +38,8 @@ p{
 }
 
 .foto {
-    width: 500px;
-    height: 300px;
+    width: 50px;
+    height: 100px;
     margin: 10px;
     padding: 3px;
     border: 0.5rem solid black;
