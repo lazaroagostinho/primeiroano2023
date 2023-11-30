@@ -9,6 +9,11 @@ header {
     padding: 2px;
 }
 
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
+}
+
 
 h1{
     color :(blueviolet);
